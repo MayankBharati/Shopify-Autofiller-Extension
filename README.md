@@ -69,7 +69,7 @@ When contributing, please follow the established code style and guidelines.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please reach out to the development team at [bharatim1221@gmail.com](mailto: bharatim1221@gmail.com).
+If you have any questions, suggestions, or feedback, please reach out to the me at [bharatim1221@gmail.com].
 
 ---
 
