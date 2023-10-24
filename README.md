@@ -1,6 +1,10 @@
 # Shopify Autofiller Chrome Extension
 
 The Shopify Autofiller Chrome Extension is a browser extension built with HTML, JavaScript and Chrome Extension API. It is designed to automate the process of filling in Shopify store forms, making it easier and faster for users to input information. This README file provides an overview of the extension, its features, installation instructions, and other important details.
+![241747257-7fcc26da-34b1-4b6e-9ed8-bf81854168be](https://github.com/MayankBharati/Shopify-Autofiller-Extension/assets/75744167/e147be73-95d9-477a-ab56-f45a93aa11a1)
+![241747278-75a3597e-1b0b-4d07-a246-2d70fb58817a](https://github.com/MayankBharati/Shopify-Autofiller-Extension/assets/75744167/2a689253-23ee-4aac-9e6b-9833b779654e)
+
+
 
 ## Features
 
